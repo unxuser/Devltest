@@ -8,4 +8,4 @@ rm -rf /var/log/wcstaus.log.bak
 cat /dev/null > /var/log/maillog
 rm -rf /var/log/maillog-*
 rm -rf /tmp/*
-echo "cleaned everything"
+echo "cleaned everything log"

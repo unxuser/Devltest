@@ -1,0 +1,49 @@
+  649  cd gittest/
+  652  git status
+  653  git status -a
+  654  git log --oneline
+  989  cd /home/Jobin/gittest/
+  992  git clone git@github.com:jonjobin/Devltest.git
+  993  git fetch --all
+  994  git remote add master git@github.com:jonjobin/Mastertest.git
+  995  git branch 
+  996  cd /home/Jobin/gittest/
+  999  git clone git@github.com:jonjobin/Devltest.git
+ 1002  git fetch --all
+ 1003  git remote add master git@github.com:jonjobin/Mastertest.git
+ 1004  git fetch all
+ 1005  git fetch --all
+ 1006  git status
+ 1007  git branch
+ 1008  git remote -v
+ 1009  git help rebase
+ 1010  git branch -a
+ 1011  git checkout -b test
+ 1012  git rebase remotes/master/master test
+ 1013  git fetch --all
+ 1014  history |grep -i git
+ 1015  history |grep -i git >>gittest
+ 1016  git status
+ 1017  git add .
+ 1018  git status
+ 1019  git commit -am "git history file added"
+ 1020  git status
+ 1021  git push test
+ 1022  git push master 
+ 1023  git fetch --all
+ 1024  git push master 
+ 1025  git branch
+ 1026  git push test master
+ 1027  git push origin  master
+ 1028  git staus
+ 1029  git status
+ 1030  git branch -a
+ 1031  git push
+ 1036  git clone git@github.com:unxuser/Devltest.git
+ 1038  git remote add upstream git@github.com:jonjobin/Devltest.git
+ 1039  git fetch --all
+ 1040  git rebase remotes/upstream/master
+ 1041  git checkout -b new_branch
+ 1042  git rebase remotes/upstream/master new_branch
+ 1043  git status
+ 1044  history |grep -i git >>gittest
